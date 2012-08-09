@@ -1,4 +1,4 @@
-var morpheus = require('morpheus')
+var morpheus = require('morpheus-bg')
 !function ($) {
   $.ender({
     animate: function (options) {
