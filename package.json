@@ -1,5 +1,5 @@
 {
-    "name": "morpheus"
+    "name": "morpheus-bg"
   , "description": "A Brilliant Animator"
   , "version": "0.6.4"
   , "homepage": "https://github.com/ded/morpheus"
@@ -9,7 +9,7 @@
   , "ender": "./src/ender.js"
   , "repository": {
       "type": "git"
-    , "url": "https://github.com/ded/morpheus.git"
+    , "url": "https://github.com/rogchap/morpheus.git"
   }
   , "devDependencies": {
       "sink-test": ">= 0.0.9"
